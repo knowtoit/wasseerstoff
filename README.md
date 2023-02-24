@@ -2,7 +2,7 @@
 
 
 <h5>Link to Assesment </h5>
-<a href="https://beautiful-gecko-552dd5.netlify.app/"></a>
+<a href="https://beautiful-gecko-552dd5.netlify.app/">Link</a>
 
 
 <h3>Technology stack/libraries used</h3>
@@ -22,7 +22,7 @@
 </ul>
 
 <h3>Host link:</h3>
-<a href="">Here</a>
+<a href="https://beautiful-gecko-552dd5.netlify.app/">Here</a>
 
 
 
